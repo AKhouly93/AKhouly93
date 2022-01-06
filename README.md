@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmed Elkhouly
+- 👀 I’m interested in web development and game development using Unity and C#.
+- 🌱 I’m currently learning front-end web development.
+- 📫 FB/PureHeart21 - Adragunov20@gmail.com
